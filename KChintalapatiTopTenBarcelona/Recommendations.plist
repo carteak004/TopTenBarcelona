@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>The Serras</string>
+		<key>description</key>
+		<string>Luxury hotel with 2 bars/lounges, near Basilica de Santa Maria del Mar</string>
+		<key>address</key>
+		<string>Passeig de Colom, 9, Barcelona, Barcelona, 08002, Spain</string>
+		<key>website</key>
+		<string>http://hoteltheserrasbarcelona.com</string>
+		<key>contact</key>
+		<string>+34 93 169 18 68</string>
+		<key>hours</key>
+		<string>2 PM - noon</string>
+		<key>image-cell</key>
+		<string>serras.jpg</string>
+		<key>image</key>
+		<string>serras.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Casa Camper Barcelona</string>
+		<key>description</key>
+		<string>4-star hotel with restaurant, near Palau de la Musica Catalana</string>
+		<key>address</key>
+		<string>Calle Elisabets, 11, Barcelona, Barcelona, 08001, Spain</string>
+		<key>website</key>
+		<string>http://www.casacamper.com/barcelona/</string>
+		<key>contact</key>
+		<string>+34 93 342 62 80</string>
+		<key>hours</key>
+		<string>2 PM - noon</string>
+		<key>image-cell</key>
+		<string>casa.jpg</string>
+		<key>image</key>
+		<string>casa.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>El Palace Hotel</string>
+		<key>description</key>
+		<string>Within easy reach of Casa Batllo</string>
+		<key>address</key>
+		<string>Gran Via de les Corts Catalanes 668, Barcelona, 08010, Spain</string>
+		<key>website</key>
+		<string>https://www.hotelpalacebarcelona.com/en/</string>
+		<key>contact</key>
+		<string>+34 93 510 11 30</string>
+		<key>hours</key>
+		<string>3 PM - noon</string>
+		<key>image-cell</key>
+		<string>palace.jpg</string>
+		<key>image</key>
+		<string>palace.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Blavis</string>
+		<key>description</key>
+		<string>A small gastronomic corner which share tapas and platillos</string>
+		<key>address</key>
+		<string>Carrer de Saragossa, 85, 08006, Barcelona, Spain</string>
+		<key>website</key>
+		<string>http://restaurantblavis.com/en/</string>
+		<key>contact</key>
+		<string>+34 93 518 20 05</string>
+		<key>hours</key>
+		<string>8 PM - 11 PM</string>
+		<key>image-cell</key>
+		<string>Blavis.jpg</string>
+		<key>image</key>
+		<string>Blavis.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Foc i Oli</string>
+		<key>description</key>
+		<string>A place with full size bar and vegan options</string>
+		<key>address</key>
+		<string>Carrer Aribau, 91, 08036, Barcelona, Spain</string>
+		<key>website</key>
+		<string>http://www.focioli.com</string>
+		<key>contact</key>
+		<string>+34 93 323 20 92</string>
+		<key>hours</key>
+		<string>1:00 PM - 4:30 PM</string>
+		<key>image-cell</key>
+		<string>Foc.jpg</string>
+		<key>image</key>
+		<string>Foc.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Basilica of the Sagrada Familia</string>
+		<key>description</key>
+		<string>The Basílica i Temple Expiatori de la Sagrada Família is a large Roman Catholic church in Barcelona, designed by Catalan Spanish architect Antoni Gaudí.</string>
+		<key>address</key>
+		<string>Carrer de Mallorca, 401, 08013 Barcelona, Spain</string>
+		<key>website</key>
+		<string>http://www.sagradafamilia.org/en/</string>
+		<key>contact</key>
+		<string>+34 93 208 04 14</string>
+		<key>hours</key>
+		<string>9:00 AM - 8:00 PM</string>
+		<key>image-cell</key>
+		<string>Basilica.jpg</string>
+		<key>image</key>
+		<string>Basilica.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Barcelona Zoo</string>
+		<key>description</key>
+		<string>Barcelona Zoo is a zoo in the Parc de la Ciutadella in Barcelona, Catalonia, Spain. The zoo used to be internationally known as the home of Snowflake, the only known albino gorilla, who died in 2003. </string>
+		<key>address</key>
+		<string>Parc de la Ciutadella | La Ribera/Port Ol&apos;mpic, 08003 Barcelona, Spain</string>
+		<key>website</key>
+		<string>http://www.zoobarcelona.cat/en/home</string>
+		<key>contact</key>
+		<string>+34 90 245 75 45</string>
+		<key>hours</key>
+		<string>10:00 AM - 5:00 PM</string>
+		<key>image-cell</key>
+		<string>zoo.jpg</string>
+		<key>image</key>
+		<string>zoo.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Museu de la Xocolata</string>
+		<key>description</key>
+		<string>Barcelona’s Chocolate Museum is located in a historic monastery in the Born neighborhood, one of the loveliest areas of Barcelona’s Old Town.</string>
+		<key>address</key>
+		<string>Carrer del Comerç, 36, 08003 Barcelona, Spain</string>
+		<key>website</key>
+		<string>http://www.museuxocolata.cat/?lang=en</string>
+		<key>contact</key>
+		<string>+34 93 268 78 78</string>
+		<key>hours</key>
+		<string>10AM–7PM</string>
+		<key>image-cell</key>
+		<string>museum.jpg</string>
+		<key>image</key>
+		<string>museum.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tibidabo Amusement Park</string>
+		<key>description</key>
+		<string>Tibidabo Amusement Park is an amusement park located on the tallest mountain Tibidabo in the Collserola Ridge in Barcelona. The park is among the oldest in the world still functioning.</string>
+		<key>address</key>
+		<string>Plaça del Tibidabo, 3-4, 08035 Barcelona, Spain</string>
+		<key>website</key>
+		<string>http://www.tibidabo.cat/en/</string>
+		<key>contact</key>
+		<string>+34 93 211 79 42</string>
+		<key>hours</key>
+		<string>11 AM - 9 PM</string>
+		<key>image-cell</key>
+		<string>Tibidabo.jpg</string>
+		<key>image</key>
+		<string>Tibidabo.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>FC Barcelona Museum</string>
+		<key>description</key>
+		<string>If you are a major soccer fan, touring Barça’s Camp Nou Stadium and Museum to see where Lionel Messi, Andrés Iniesta and Xavi Hernández take the field is likely an experience you will never forget.</string>
+		<key>address</key>
+		<string>Travessera de Grácia, 441, 08025, Barcelona, Spain</string>
+		<key>website</key>
+		<string>http://www.bellebuon.com/en/</string>
+		<key>contact</key>
+		<string>+34 90 218 99 00</string>
+		<key>hours</key>
+		<string>10 AM – 6:30 PM</string>
+		<key>image-cell</key>
+		<string>fc.jpg</string>
+		<key>image</key>
+		<string>fc.jpg</string>
+	</dict>
+</array>
+</plist>
